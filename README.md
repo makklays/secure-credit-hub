@@ -6,6 +6,14 @@ The project consists of multiple independent microservices, each running in its 
 
 The system follows modern backend development practices, including service isolation, security, and observability.
 
+## About 
+
+I created this project from scratch as a system composed of multiple microservices.
+
+The main goal of this project was to work in the roles of Software Architect and Team Lead, designing and implementing a complete microservice-based system from the ground up. As an architect, I was responsible for justifying the architectural decisions and explaining why this particular architecture was chosen for the implementation. As a team lead, I focused on defining how the architecture should be implemented in practice and how the system should be developed according to the architectural vision.
+
+This project demonstrates both architectural thinking and hands-on implementation of a microservices system, including design decisions, technical trade-offs, and development practices.
+
 ## 🧩 Architecture Overview
 The application is composed of several microservices that communicate with each other over secure APIs.
 
