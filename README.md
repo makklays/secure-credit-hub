@@ -1,4 +1,4 @@
-# 🏦 Secure Credit Hub
+# 🏦 Secure Credit Hub 
 Project has created from several microservices in Docker containers
 
 Secure Credit Hub is a distributed system built using a microservices architecture, designed to provide secure and scalable financial services.
@@ -6,7 +6,7 @@ The project consists of multiple independent microservices, each running in its 
 
 The system follows modern backend development practices, including service isolation, security, and observability.
 
-# 🧩 Architecture Overview
+## 🧩 Architecture Overview
 The application is composed of several microservices that communicate with each other over secure APIs.
 
 ### Consist of next microservices:
@@ -33,7 +33,7 @@ Other Supporting Microservices
 
 Additional services can be added to extend system functionality and maintain scalability.
 
-# 🐳 Containerization
+## 🐳 Containerization
 
 All microservices are packaged and deployed as Docker containers, ensuring:
 
@@ -43,7 +43,7 @@ All microservices are packaged and deployed as Docker containers, ensuring:
 
 - Simplified deployment and scaling 
 
-# 🎯 Project Goals
+## 🎯 Project Goals
 
 - Demonstrate a real-world microservices architecture
 
@@ -53,7 +53,7 @@ All microservices are packaged and deployed as Docker containers, ensuring:
 
 - Enable easy scalability and observability
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### Backend
 
