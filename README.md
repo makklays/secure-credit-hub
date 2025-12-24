@@ -57,53 +57,53 @@ All microservices are packaged and deployed as Docker containers, ensuring:
 
 ### Backend
 
-Java — primary programming language
+- Java — primary programming language
 
-Spring Boot — building standalone, production-ready microservices
+- Spring Boot — building standalone, production-ready microservices
 
-Spring Security — authentication and authorization
+- Spring Security — authentication and authorization
 
-OAuth2 / OpenID Connect — secure token-based access control
+- OAuth2 / OpenID Connect — secure token-based access control
 
-Spring Cloud — service communication and configuration (where applicable)
+- Spring Cloud — service communication and configuration (where applicable)
 
 ### Containerization & Deployment
 
-Docker — containerization of all microservices
+- Docker — containerization of all microservices
 
-Docker Compose — local orchestration of multiple services
+- Docker Compose — local orchestration of multiple services
 
-(Optional) Kubernetes — container orchestration and scalability
+- (Optional) Kubernetes — container orchestration and scalability
 
 ### Data & Persistence
 
-MySQL — relational database for persistent storage
+- MySQL — relational database for persistent storage
 
-JPA / Hibernate — object-relational mapping
+- JPA / Hibernate — object-relational mapping
 
-Flyway — database versioning and migrations
+- Flyway — database versioning and migrations
 
-Observability & Monitoring
+- Observability & Monitoring
 
-Spring Boot Actuator — health checks and metrics
+- Spring Boot Actuator — health checks and metrics
 
-Monitoring Microservice — centralized monitoring and system observability
+- Monitoring Microservice — centralized monitoring and system observability
 
-(Optional) Prometheus / Grafana — metrics collection and visualization
+- (Optional) Prometheus / Grafana — metrics collection and visualization
 
 ### Security
 
-OAuth2 Authorization Server — centralized authentication service
+- OAuth2 Authorization Server — centralized authentication service
 
-JWT — stateless authentication tokens
+- JWT — stateless authentication tokens
 
-HTTPS / Secure APIs — secure inter-service communication
+- HTTPS / Secure APIs — secure inter-service communication
 
 ### Development & Testing
 
-Maven — dependency management and build tool
+- Maven — dependency management and build tool
 
-JUnit / Mockito — unit and integration testing
+- JUnit / Mockito — unit and integration testing
 
-Testcontainers — container-based testing for external dependencies
+- Testcontainers — container-based testing for external dependencies
 
