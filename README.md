@@ -12,7 +12,7 @@ I created this project from scratch as a system composed of multiple microservic
 
 The main goal of this project was to work in the roles of Software Architect and Team Lead, designing and implementing a complete microservice-based system from the ground up. As an architect, I was responsible for justifying the architectural decisions and explaining why this particular architecture was chosen for the implementation. As a team lead, I focused on defining how the architecture should be implemented in practice and how the system should be developed according to the architectural vision. As a Senior Java Software Engineer, I implemented this project based on the requirements and architectural guidelines provided by the Software Architect and the Team Lead, applying my expertise in effective Java practices and clean code principles.
 
-This project demonstrates both architectural thinking and hands-on implementation of a microservices system, including design decisions (microservices, DDD), technical trade-offs, and development practices.
+This project demonstrates both architectural thinking and hands-on implementation of a microservices system, including design decisions (microservices, clear architecture, DDD), technical trade-offs, and development practices.
 
 This project demonstrating me as:
 - Software Architect
