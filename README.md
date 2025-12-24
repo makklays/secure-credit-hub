@@ -74,6 +74,8 @@ All microservices are packaged and deployed as Docker containers, ensuring:
 
 - Spring Boot — building standalone, production-ready microservices
 
+- WebFlux — Spring Reactive  
+
 - Spring Security — authentication and authorization
 
 - OAuth2 / OpenID Connect — secure token-based access control
