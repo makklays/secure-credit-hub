@@ -1,4 +1,4 @@
-# secure-credit-hub
+# 🏦 secure-credit-hub
 Project has created from several microservices in Docker containers
 
 Consist of next microservices:
