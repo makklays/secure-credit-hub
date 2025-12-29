@@ -27,7 +27,6 @@ The application is composed of several microservices that communicate with each 
 <a href="#" target="_blank" >OAuth2 microservice</a> 
 
 Responsible for authentication and authorization.
-
 Provides secure access to system resources using OAuth2 standards and token-based security.
 
 <a href="https://github.com/makklays/java-credit-cards-microservice" target="_blank" >Credit Cards microservice</a> 
@@ -38,9 +37,7 @@ Handles currency data, exchange rates, and currency-related operations used acro
 <a href="#" target="_blank" >Monitoring microservice</a> 
 
 Provides observability features such as health checks, metrics collection, and service monitoring.
-
 Other Supporting Microservices
-
 Additional services can be added to extend system functionality and maintain scalability.
 
 ## 🐳 Containerization
@@ -48,19 +45,14 @@ Additional services can be added to extend system functionality and maintain sca
 All microservices are packaged and deployed as Docker containers, ensuring:
 
 - Consistent environments
-
 - Easy local development
-
 - Simplified deployment and scaling 
 
 ## 🎯 Project Goals
 
 - Demonstrate a real-world microservices architecture
-
 - Implement secure communication between services
-
 - Apply separation of concerns and clean service boundaries
-
 - Enable easy scalability and observability
 
 ## 🛠️ Tech Stack
@@ -68,54 +60,37 @@ All microservices are packaged and deployed as Docker containers, ensuring:
 ### Backend
 
 - Java — primary programming language
-
 - Spring Boot — building standalone, production-ready microservices
-
 - WebFlux — Spring Reactive  
-
 - Spring Security — authentication and authorization
-
 - OAuth2 / OpenID Connect — secure token-based access control
-
 - Spring Cloud — service communication and configuration (where applicable)
 
 ### Containerization & Deployment
 
 - Docker — containerization of all microservices
-
 - Docker Compose — local orchestration of multiple services
-
 - (Optional) Kubernetes — container orchestration and scalability
 
 ### Data & Persistence
 
 - MySQL — relational database for persistent storage
-
 - JPA / Hibernate — object-relational mapping
-
 - Flyway — database versioning and migrations
-
 - Observability & Monitoring
-
 - Spring Boot Actuator — health checks and metrics
-
 - Monitoring Microservice — centralized monitoring and system observability
-
 - (Optional) Prometheus / Grafana — metrics collection and visualization
 
 ### Security
 
 - OAuth2 Authorization Server — centralized authentication service
-
 - JWT — stateless authentication tokens
-
 - HTTPS / Secure APIs — secure inter-service communication
 
 ### Development & Testing
 
 - Maven — dependency management and build tool
-
 - JUnit / Mockito — unit and integration testing
-
 - Testcontainers — container-based testing for external dependencies
 
