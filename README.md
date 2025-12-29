@@ -33,10 +33,7 @@ Provides secure access to system resources using OAuth2 standards and token-base
 <a href="https://github.com/makklays/java-credit-cards-microservice" target="_blank" >Credit Cards microservice</a> 
 
 Manages credit card data and related business logic, including card lifecycle and validation.
-
-<a href="#" target="_blank" >Currency microservice</a> 
-
-Handles currency data, exchange rates, and currency-related operations used across the system.
+Handles currency data, exchange rates, and currency-related operations used across the system. Also for every credit card has loyalty points and an opportunity adding it.
 
 <a href="#" target="_blank" >Monitoring microservice</a> 
 
