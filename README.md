@@ -19,6 +19,14 @@ This project demonstrating me as:
 - Team Lead
 - Senior Java Software Engineer
 
+<p align="left">
+    <img src="./images/1000000588.png" width="170" />
+    <img src="./images/1000000590.png" width="170" />
+    <img src="./images/1000000589.png" width="170" />
+    <img src="./images/1000000599.png" width="170" />
+    <img src="./images/1000000591.png" width="170" />
+</p>
+
 ## 🧩 Architecture Overview
 The application is composed of several microservices that communicate with each other over secure APIs.
 
