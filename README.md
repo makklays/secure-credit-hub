@@ -21,7 +21,6 @@ This project demonstrating me as:
 
 <p align="left">
     <img src="./images/1000000588.png" width="170" />
-    <img src="./images/1000000590.png" width="170" />
     <img src="./images/1000000589.png" width="170" />
     <img src="./images/1000000599.png" width="170" />
     <img src="./images/1000000591.png" width="170" />
