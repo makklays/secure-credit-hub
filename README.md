@@ -85,7 +85,7 @@ All microservices are packaged and deployed as Docker containers, ensuring:
 
 ### Data & Persistence
 
-- MySQL — relational database for persistent storage
+- PostgreSQL — relational database for persistent storage
 - JPA / Hibernate — object-relational mapping
 - Flyway — database versioning and migrations
 - Observability & Monitoring
