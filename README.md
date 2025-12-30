@@ -24,17 +24,21 @@ The application is composed of several microservices that communicate with each 
 
 ### Consist of next microservices:
 
-<a href="#" target="_blank" >OAuth2 microservice</a> 
+<a href="https://github.com/makklays/java-oauth2-microservice" target="_blank" >OAuth2 microservice</a> 
 
 Responsible for authentication and authorization.
 Provides secure access to system resources using OAuth2 standards and token-based security.
+
+<a href="https://github.com/makklays/java-gateway-api-microservice" target="_blank">API Gateway microservice</a>
+
+API Gateway serves as a single entry point for all application endpoints.
 
 <a href="https://github.com/makklays/java-credit-cards-microservice" target="_blank" >Credit Cards microservice</a> 
 
 Manages credit card data and related business logic, including card lifecycle and validation.
 Handles currency data, exchange rates, and currency-related operations used across the system. Also for every credit card has loyalty points and an opportunity to add them.
 
-<a href="#" target="_blank" >Monitoring microservice</a> 
+<a href="https://github.com/makklays/java-monitoring-microservice" target="_blank" >Monitoring microservice</a> 
 
 Provides observability features such as health checks, metrics collection, and service monitoring.
 Other Supporting Microservices
