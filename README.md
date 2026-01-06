@@ -36,7 +36,7 @@ The application is composed of several microservices that communicate with each 
 API Gateway serves as a single entry point for all application endpoints.
 
 <p>
-    <img src="./images/api-gateway.png" />
+    <img src="./images/api-gateway-all.png" />
 </p>
 
 <a href="https://github.com/makklays/java-oauth2-microservice" target="_blank" >Users microservice</a> 
