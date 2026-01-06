@@ -31,6 +31,10 @@ The application is composed of several microservices that communicate with each 
 
 ### Consist of next microservices:
 
+<p>
+    <img src="./images/api-gateway.png" />
+</p>
+
 <a href="https://github.com/makklays/java-oauth2-microservice" target="_blank" >OAuth2 microservice</a> 
 
 Responsible for authentication and authorization.
