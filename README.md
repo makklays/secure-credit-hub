@@ -53,7 +53,7 @@ This microservice consist of different currencies from National Bank of Ukraine 
 Manages credit card data and related business logic, including card lifecycle and validation.
 Handles currency data, exchange rates, and currency-related operations used across the system. Also for every credit card has loyalty points and an opportunity to add them.
 
-<a href="https://github.com/makklays/java-transfers-microservice" target="_blank" >Transfers microservice</a> 
+<a href="https://github.com/makklays/java-payments-microservice" target="_blank" >Payments microservice</a> 
 
 This microservice consist of SEPA transfers, Bizum transfers, Internal transfers and Accounts.
 
