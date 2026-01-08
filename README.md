@@ -39,6 +39,11 @@ API Gateway serves as a single entry point for all application endpoints.
     <img src="./images/api-gateway-all.png" />
 </p>
 
+<a href="https://github.com/makklays/java-service-discovery-microservice" target="_blank" >Service Discovery microservice</a> 
+
+The service-discovery microservice (Eureka Server) in the Spring Cloud ecosystem acts as a central registry for all services in the system. 
+Its purpose is to track where each service is running so that other microservices can discover and communicate with them without using hard-coded addresses.
+
 <a href="https://github.com/makklays/java-oauth2-microservice" target="_blank" >Users microservice</a> 
 
 Responsible for authentication and authorization.
