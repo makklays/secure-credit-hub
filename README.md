@@ -33,7 +33,11 @@ The application is composed of several microservices that communicate with each 
 
 <a href="https://github.com/makklays/java-gateway-api-microservice" target="_blank">API Gateway microservice</a>
 
-API Gateway serves as a single entry point for all application endpoints.
+API Gateway service as a single entry point for all application endpoints.
+
+<a href="https://github.com/makklays/java-system-aggregator-microservice" target="_blank">System Aggregator microservice</a>
+
+System Aggregator service as a central component designed to collect and combine data from multiple backend microservices, providing a unified response for the API Gateway.
 
 <p>
     <img src="./images/api-gateway-all.png" />
