@@ -55,14 +55,14 @@ Its purpose is to track where each service is running so that other microservice
 Responsible for authentication and authorization.
 Provides secure access to system resources using OAuth2 standards and token-based security.
 
-<a href="https://github.com/makklays/java-currencies-microservice" target="_blank" >Currencies microservice</a> 
-
-This microservice consist of different currencies from National Bank of Ukraine with exchange rates.
-
 <a href="https://github.com/makklays/java-credit-cards-microservice" target="_blank" >Credit Cards microservice</a> 
 
 Manages credit card data and related business logic, including card lifecycle and validation.
 Handles currency data, exchange rates, and currency-related operations used across the system. Also for every credit card has loyalty points and an opportunity to add them.
+
+<a href="https://github.com/makklays/java-currencies-microservice" target="_blank" >Currencies microservice</a> 
+
+This microservice consist of different currencies from National Bank of Ukraine with exchange rates.
 
 <a href="https://github.com/makklays/java-payments-microservice" target="_blank" >Payments microservice</a> 
 
